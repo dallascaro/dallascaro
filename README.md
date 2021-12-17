@@ -14,3 +14,6 @@ I currently working on projects for port scanners, Intrusion Detection systems, 
 
 I'm looking for an internship and experince in penetration testing specifically gaining exeprince in breaking into systems using a variety of tools.
 I would love the oppertunity to gain experince in the cyber security field and be apart of some amazing security projects.
+
+Reach and Connect with me 
+https://www.linkedin.com/in/dallas-caro-ms-computer-science-916b411b5/
