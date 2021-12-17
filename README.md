@@ -10,5 +10,5 @@
 
 Reach and Connect with me 
 ![alt text](image.jpg)
-[title](https://www.example.com)
+[title](https://www.linkedin.com/in/dallas-caro-ms-computer-science-916b411b5/)
 https://www.linkedin.com/in/dallas-caro-ms-computer-science-916b411b5/
