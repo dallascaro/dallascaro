@@ -9,4 +9,4 @@
 - * 📫 How to reach me email : dallascaro98@gmail.com
 
 Reach and Connect with me 
-[![linkedIn](https://user-images.githubusercontent.com/56410151/146584786-de2d6928-b964-4282-8a32-5b5c06175dfe.png)]
+![linkedIn](https://user-images.githubusercontent.com/56410151/146584786-de2d6928-b964-4282-8a32-5b5c06175dfe.png){width=50%}
