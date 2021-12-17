@@ -9,4 +9,4 @@
 - * 📫 How to reach me email : dallascaro98@gmail.com
 
 Reach and Connect with me 
-![linkedIn]( {width=50%} https://user-images.githubusercontent.com/56410151/146584786-de2d6928-b964-4282-8a32-5b5c06175dfe.png)
+LinkedIn : https://www.linkedin.com/in/dallas-caro-ms-computer-science-916b411b5/
