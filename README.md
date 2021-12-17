@@ -1,6 +1,6 @@
 # Hi, 👋 I’m Dallas Caro 
 
-### I'm Computer Science Masters Student focusing on Cyber Security, with an emphasis on Red Team Penetration Testing. Currently working on projects for port scanners, Intrusion Detection Systems, Ransomeware, and many other applications.
+### I'm Computer Science Masters Student focusing on Cyber Security, emphasis with Red Team Penetration Testing. Working on projects for port scanners, Intrusion Detection Systems, Ransomeware, and others.
 ### I'm looking for an internship and experince in penetration testing, would love the oppertunity to gain experince in the cyber security field.
 
 - * 👀 I’m interested in an internship for cyber security specifically in penetration testing or red team.
