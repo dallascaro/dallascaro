@@ -9,7 +9,7 @@
 - * 📫 How to reach me email : dallascaro98@gmail.com
 
 Reach and Connect with me 
-(image.jpg)![linkedin](https://user-images.githubusercontent.com/56410151/146584786-de2d6928-b964-4282-8a32-5b5c06175dfe.png)
+![[linkedin](https://user-images.githubusercontent.com/56410151/146584786-de2d6928-b964-4282-8a32-5b5c06175dfe.png) [title](https://www.linkedin.com/in/dallas-caro-ms-computer-science-916b411b5/)]
 
-[title](https://www.linkedin.com/in/dallas-caro-ms-computer-science-916b411b5/)
-https://www.linkedin.com/in/dallas-caro-ms-computer-science-916b411b5/
+
+[![image alt text](image url link)]
