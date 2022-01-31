@@ -1,6 +1,6 @@
 # Hi, 👋 I’m Dallas Caro 
 
-#### I'm Computer Science Masters Student focusing on Mobile and Web Application Developement specializing in React Native as well as the Django Framework. I also work on Cyber Security, emphasis with Red Team Penetration Testing. Working on projects for port scanners, Intrusion Detection Systems, Ransomeware, and others.
+#### I'm a Computer Science Masters Student focusing on Mobile and Web Application Developement specializing in React Native as well as the Django Framework. I also work on Cyber Security, emphasis with Red Team Penetration Testing. Working on projects for port scanners, Intrusion Detection Systems, Ransomeware, and others.
 #### I'm looking for an internship and experince in mobile application development or penetration testing, would love the oppertunity to gain experince in the application developemnt field or cyber security field.
 
 - * 👀 I’m interested in an internship for mopbile development with react native or cyber security specifically in penetration testing or red team.
