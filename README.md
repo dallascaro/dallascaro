@@ -1,6 +1,6 @@
 # Hi, 👋 I’m Dallas Caro 
 
-#### I'm a Computer Science Masters Student focusing on Mobile and Web Application Developement specializing in React Native, Kotlin, and Swift.
+#### I'm a Computer Science Masters Student focusing on Mobile and Web Application Developement specializing in React Native, Kotlin, and Swift using the Google Cloud Platform (GCP)
 #### I'm looking for a job and in mobile application development
 
 - * 👀 I’m interested in jobs  for mopbile development with react native or native languages such as Swift, or Kotlin.
